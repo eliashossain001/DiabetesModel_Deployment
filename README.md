@@ -1,7 +1,7 @@
 <br />
 <p align="center">
-  <a href="https://github.com/github_Abhayparashar/Diabetes-prediction">
-    ![Diabates](https://user-images.githubusercontent.com/54431128/193522686-82d0f355-2a24-4373-bfa2-61dff081b2f5.png)
+  <a href="https://github.com/eliashossain001/DiabetesModel_Deployment">
+   
   </a>
 
   <h3 align="center">Diabetes-prediction</h3>
