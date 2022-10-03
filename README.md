@@ -70,7 +70,7 @@ import matplolib.pyplot as plt
 from flask import Flask,request, url_for, redirect, render_template
 import pickle
 ```
-## Contributers
+## Lead Author
 
 Elias Hossain 
 
