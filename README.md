@@ -32,14 +32,14 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Clone the repo and extract it ....
+To access this project, first Clone the repository and extract in your local PC. 
 
 ### Prerequisites
 
 This is the list of things you need to use the software and how to install them.
 * Python
 ```
-Version python 3.8 <
+Version python 3.8 >
 ```
 * Pandas
 * sklearn
@@ -49,7 +49,7 @@ Version python 3.8 <
 
 ### Installation
  
-1. Clone the repo
+1. Clone the repository 
 ```
 https://github.com/eliashossain001/DiabetesModel_Deployment.git
 ```
@@ -84,3 +84,4 @@ Project Link: [https://github.com/eliashossain001/DiabetesModel_Deployment](http
 ## References
 * Stackoverflow
 * flask
+* Medium/Towards data science
