@@ -7,14 +7,14 @@
   <h3 align="center">Diabetes-prediction</h3>
 
   <p align="center">
-    In this i've tried to predict the probability of a person having diabetes based on some data fields...
+    Forecasting diabetes using machine learning algorithms 
     <br />
     <a href="https://ap31-diabetes-prediction.herokuapp.com/"><strong>View Deployment On Heroku »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Abhayparashar31/Diabetes-prediction">View Codes</a>
+    <a href="https://github.com/eliashossain001/DiabetesModel_Deployment">View Codes</a>
     ·
-    <a>Report Bug -> parasharabhay13@gmail.com</a>
+    <a>Report Bug -> elias.hossain191@gmail.com</a>
     
   </p>
 </p>
