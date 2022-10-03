@@ -21,28 +21,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Contributers](#contributers)
-* [License](#license)
-* [Contact](#contact)
-
-
-<!-- ABOUT THE PROJECT -->
-## Project
-
- <a href="https://github.com/github_Abhayparashar/price-compare-app">
-    <img src="images/img.png">   <img src="images/img1.png"> <img src="images/img2.png">
-  </a>
-
-`Abhayparashar31`, `Diabetes-prediction`,  `parasharabhay13@gmail.com`
-
 
 ### Built With
 
@@ -91,23 +69,16 @@ import pickle
 ```
 ## Contributers
 
-Abhayparashar31
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+Elias Hossain 
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Abhayparashar31
+Your Name - Elias Hossain 
 
-Project Link: [https://github.com/Abhayparashar31/Diabetes-prediction/](https://github.com/Abhayparashar31/Diabetes-prediction/)
+Project Link: [https://github.com/eliashossain001/DiabetesModel_Deployment](https://diabetes-prediction01.herokuapp.com/)
 
 
 ## References
