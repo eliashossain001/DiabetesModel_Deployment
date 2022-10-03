@@ -51,7 +51,7 @@ Version python 3.8 <
  
 1. Clone the repo
 ```
-git clone https://github.com/github_Abhayparashar31/Diabetes-prediction.git
+https://github.com/eliashossain001/DiabetesModel_Deployment.git
 ```
 2. Install Python Libraries
 ```
