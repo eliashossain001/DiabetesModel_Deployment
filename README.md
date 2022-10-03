@@ -4,7 +4,7 @@
    
   </a>
 
-  <h3 align="center">Diabetes-prediction</h3>
+  <h3 align="center">Diabetes-prediction Web Application</h3>
 
   <p align="center">
     Forecasting diabetes using machine learning algorithms 
