@@ -26,6 +26,13 @@ Diabetes Mellitus is one of the most severe diseases, and many studies have been
 
 <a href="https://www.techscience.com/cmc/v72n1/46912">Download Full Paper</a>
 
+### Deployment Architecture 
+
+![arch](https://user-images.githubusercontent.com/54431128/193549116-df1493f9-fcdf-4994-b895-9abbdc9e374c.PNG)
+
+Model deployment for Machine Learning involves a pipeline that begins with data collection and continues with exploratory data analysis (EDA) and model application in the real world. We choose Heroku Server because to its free plan for learning and getting started. Heroku is a platform that helps developers hone their abilities to create applications with numerous features. The experience will benefit developers because they will have access to useful resources for accelerating critical development processes. The free edition of Heroku is appropriate for smaller software projects. Additionally, developers may choose from a variety of tiered packages that are optimally matched to the different needs of major businesses. The Heroku platform's user-friendly interface permits scaling, management, and application monitoring. We chose this server for this research because it can be used mostly for free with a variety of modules, despite the fact that Heroku offers many more platforms as alternatives. After deploying the Flask API, the following steps must be completed for our Flask Application Programming Interface (API) to connect with the Java Client. Flask is a Python web framework that contains tools for developing web applications, such as support for handling HTTP requests and template rendering. The most common alternatives to Flask include Django, Tornado, Express JS, Node.js, and React. According to us, the greatest advantage of the flask is its design, which is both lightweight and modular. In addition, it features outstanding community support and documentation for developers. Flask's compliance with Web Server Gateway Interface (WSGI) makes it straightforward to deploy in production.
+
+
 ### Framework/Language
 
 * [Python](python)
