@@ -27,7 +27,7 @@ Diabetes Mellitus is one of the most severe diseases, and many studies have been
 
 
 ### Overall Architecture 
-<img width="380" alt="Diabete" src="https://user-images.githubusercontent.com/54431128/193620080-41f5eae8-c1e7-4fa2-9f93-c45ebd1856ac.PNG">
+<img width="380" class="center" alt="Diabete" src="https://user-images.githubusercontent.com/54431128/193620080-41f5eae8-c1e7-4fa2-9f93-c45ebd1856ac.PNG">
 
 Experimentation Setup, Data Preprocessing, Algorithm Selection, and Model Deployment are the four components of the Diabetes Prediction Method. This research utilizes the dataset as described in the Research Dataset Section. In the Data Preprocessing section, the data preprocessing pipeline is explained in depth. The Algorithm Selection section describes all the machine learning algorithms utilized in this study. A model is finally deployed and connects with a mobile application, as described in the section on model deployment. There are numerous reasons to employ a variety of machine learning algorithms in this research, and specific algorithms have been regularly employed for this type of work in the past. Those who undertake study will rapidly comprehend all these soft computing's performance. This research also adopted the LightGBM algorithm, which was effective while developing the model and estimating the likelihood of diabetes. 
 
