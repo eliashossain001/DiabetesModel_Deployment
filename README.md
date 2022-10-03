@@ -87,7 +87,7 @@ Elias Hossain
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Elias Hossain 
+Name - Elias Hossain 
 
 Email: elias.hossain191@gmail.com 
 
