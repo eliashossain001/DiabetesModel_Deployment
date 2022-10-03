@@ -9,7 +9,7 @@
   <p align="center">
     Forecasting diabetes using machine learning algorithms 
     <br />
-    <a href="https://ap31-diabetes-prediction.herokuapp.com/"><strong>View Deployment On Heroku »</strong></a>
+    <a href="https://diabetes-prediction01.herokuapp.com/"><strong>View the Web App »</strong></a>
     <br />
     <br />
     <a href="https://github.com/eliashossain001/DiabetesModel_Deployment">View Codes</a>
