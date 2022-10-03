@@ -39,7 +39,7 @@ Clone the repo and extract it ....
 This is the list of things you need to use the software and how to install them.
 * Python
 ```
-Version python 3.8 <
+Version python 3+
 ```
 * Pandas
 * sklearn
@@ -67,7 +67,7 @@ import matplolib.pyplot as plt
 from flask import Flask,request, url_for, redirect, render_template
 import pickle
 ```
-## Contributers
+## Lead Author
 
 Elias Hossain 
 
@@ -78,7 +78,7 @@ Elias Hossain
 
 Your Name - Elias Hossain 
 
-Project Link: [https://github.com/eliashossain001/DiabetesModel_Deployment](https://diabetes-prediction01.herokuapp.com/)
+Email: elias.hossain191@gmail.com 
 
 
 ## References
