@@ -3,7 +3,7 @@
   <a href="https://github.com/eliashossain001/DiabetesModel_Deployment">
    
   </a>
-
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScDpcfouWyxASZ6BWhVRP__l2USpXwXEJkEfDmJVZWuYt_5Z7IWvdNeksjykcjPO2ddDY&usqp=CAU" alt="diabates">  
   <h3 align="center">Diabetes-prediction Web Application</h3>
 
   <p align="center">
